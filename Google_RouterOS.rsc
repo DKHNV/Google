@@ -1,5 +1,5 @@
 #Created by DKHNV
-#Gen2 12.04.2026
+#Gen3 19.04.2026
 
 /ip firewall address-list
 
@@ -25,8 +25,6 @@ add list=google address=216.58.198.10/32 comment=google
 add list=google address=216.58.198.14/32 comment=google
 add list=google address=216.58.198.42/32 comment=google
 add list=google address=216.58.198.46/32 comment=google
-add list=google address=216.58.198.106/32 comment=google
-add list=google address=216.58.198.110/32 comment=google
 add list=google address=216.239.32.223/32 comment=google
 add list=google address=216.239.34.223/32 comment=google
 add list=google address=216.239.36.223/32 comment=google
